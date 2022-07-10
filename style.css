@@ -1,0 +1,24 @@
+.parent {
+  text-align: center;
+  padding: 2em;
+  background-color: #7e7e7e;
+  color: white;
+  font-size: 20px;
+  width: 500px;
+  margin: 50px auto;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.time {
+  font-size: 2em;
+  color: #444;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.date {
+  font-size: 1.3em;
+  font-weight: 600;
+}
